@@ -45,17 +45,16 @@
 
 ```
 [ServerSettings]
-- ServerName=**{Is the Server Name Set In WindowsGSM}**
-- Password=**{Not Rrquired}**
-- MaxPlayers=**{Default is 16}**
-```
-```
+ServerName=**{Is the Server Name Set In WindowsGSM}**
+Password=**{Not Rrquired}**
+MaxPlayers=**{Default is 16}**
+
 [SystemSettings]
 IngameAdminPassword=**{Required}**
 DefaultMessageOfTheDay=**{Not Required}**
 SaveName=**{Required}**
 SaveIntervalHour=2 **{Options: 1 through 5 minutes(realtime)}**
-```
+
 [GameSettings]
 Difficulty=Normal **{Options: Peaceful, Easy, Normal, Hard, Survival, Challenge, Legend, Custom}**
 
@@ -121,6 +120,7 @@ ElectricStandbyPower=1 **{Options: 0.5, 1, 1.5 / Standby Power}**
 OneDayTime=240 **{Options: 60, 120, 180, 240, 300, 360, 420 / Times per Day}**
 UnlockAllBuilding=0 **{Options: 0=disabled or 1=enabled / Unlock All Buildings}**
 Hardcore=0 **{Options: 0=disabled or 1=enabled / Hardcore}**
+```
 
 ## Features
 
