@@ -1,5 +1,5 @@
-# WindowsGSM.NotD
-🧩 Plugin for WindowsGSM to run a Night of the Dead Dedicated Server!!
+# 🧩 WindowsGSM.NotD
+Plugin for WindowsGSM to run a Night of the Dead Dedicated Server!!
 
 ## WindowsGSM Install
 
@@ -16,17 +16,17 @@
     - Extract the file file downloaded and move the **ASKA.cs** folder to **WindowsGSM/plugins** then press the **Puzzle** icon in the bottom left corner and press the **[RELOAD PLUGINS]** or **Restart** WindowsGSM.
     - Press the **Puzzle** icon in the bottom left corner then press the **[IMPORT PLUGIN]** and select the downloaded zip file.
 
-## Official Documentation
+## 📋 Official Documentation
 
-📋 N/A
+N/A
 
 ## 🎮 Steam Store Page
 
-🎮 https://store.steampowered.com/app/1377380/Night_of_the_Dead/
+https://store.steampowered.com/app/1377380/Night_of_the_Dead/
 
-## Dedicated Server SteamDB Page
+## 🖥️ Dedicated Server SteamDB Page
 
-🖥️ https://steamdb.info/app/1420710/info/
+https://steamdb.info/app/1420710/info/
 
 ## Port Forwarding (REQUIRED)
 
