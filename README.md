@@ -20,7 +20,7 @@
 
 📋 N/A
 
-## Steam Store Page
+## 🎮 Steam Store Page
 
 🎮 https://store.steampowered.com/app/1377380/Night_of_the_Dead/
 
