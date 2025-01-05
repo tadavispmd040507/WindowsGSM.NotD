@@ -43,10 +43,12 @@
 
 ## Parameters/Config Guide
 
-[ServerSettings]\n
+```
+[ServerSettings]
 - ServerName=**{Is the Server Name Set In WindowsGSM}**
 - Password=**{Not Rrquired}**
 - MaxPlayers=**{Default is 16}**
+```
 ```
 [SystemSettings]
 IngameAdminPassword=**{Required}**
