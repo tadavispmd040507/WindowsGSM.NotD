@@ -1,7 +1,7 @@
 # WindowsGSM.NotD
 🧩 Plugin for WindowsGSM to run a Night of the Dead Dedicated Server!!
 
-### WindowsGSM Install
+## WindowsGSM Install
 
 1. Download WindowsGSM from https://windowsgsm.com/
 2. Create a Folder where you want the progame installed.
@@ -9,51 +9,51 @@
 4. Move the WindowsGSM.exe to the folder created in Step 2.
 5. Run the WindowsGSM.exe
 
-### Plugin Install
+## Plugin Install
 
 1. Download [latest](https://github.com/tadavispmd040507/WindowsGSM.NotD/releases/download/v1.0/WindowsGSM.NotD.zip) release.
 2. You have 2 options...
     - Extract the file file downloaded and move the **ASKA.cs** folder to **WindowsGSM/plugins** then press the **Puzzle** icon in the bottom left corner and press the **[RELOAD PLUGINS]** or **Restart** WindowsGSM.
     - Press the **Puzzle** icon in the bottom left corner then press the **[IMPORT PLUGIN]** and select the downloaded zip file.
 
-### Official Documentation
+## Official Documentation
 
 📋 N/A
 
-### Steam Store Page
+## Steam Store Page
 
 🎮 https://store.steampowered.com/app/1377380/Night_of_the_Dead/
 
-### Dedicated Server SteamDB Page
+## Dedicated Server SteamDB Page
 
 🖥️ https://steamdb.info/app/1420710/info/
 
-### Port Forwarding (REQUIRED)
+## Port Forwarding (REQUIRED)
 
 - If you don't know how to do this then Google is your friend.
 - 7777 UDP - Steam Game Port (Unless Port Was Changed)
 - 27015 UDP - Steam Query Port (Unless Port Was Changed)
 
-### Backup
+## Backup
 
 - Recommended to use External Program or Script via Task Scheduler (WindowsGSM will backup the entire server minus the saves since they aren't located in the server install location)
 - Recommended Files
     - WindowsGSM/servers/{Server ID}/serverfiles/ServerSettings.ini
     - WindowsGSM/servers/{Server ID}/serverfiles/Saved/SaveGames/{Save Name-Set in ServerSettings.ini}
 
-### Parameters/Config Guide
+## Parameters/Config Guide
 
-[ServerSettings]
-ServerName=**{Is the Server Name Set In WindowsGSM}**
-Password=**{Not Rrquired}**
-MaxPlayers=**{Default is 16}**
-
+[ServerSettings]\n
+- ServerName=**{Is the Server Name Set In WindowsGSM}**
+- Password=**{Not Rrquired}**
+- MaxPlayers=**{Default is 16}**
+```
 [SystemSettings]
 IngameAdminPassword=**{Required}**
 DefaultMessageOfTheDay=**{Not Required}**
 SaveName=**{Required}**
 SaveIntervalHour=2 **{Options: 1 through 5 minutes(realtime)}**
-
+```
 [GameSettings]
 Difficulty=Normal **{Options: Peaceful, Easy, Normal, Hard, Survival, Challenge, Legend, Custom}**
 
@@ -127,13 +127,13 @@ Hardcore=0 **{Options: 0=disabled or 1=enabled / Hardcore}**
 - Creates the following directory on install **LF/Saved/Config**
 - Copies the **ServerSettings.ini** over to **LF/Saved/Config** on every start and restart
 
-### Key Notes
+## Key Notes
 
 This game is in **Early Access**, WindowsGSM and this plugin is not responsible for any lost data that could occure to your server.
 
-### WindowsGSM Support
+## WindowsGSM Support
 [WindowsGSM](https://windowsgsm.com/discord)
 
-### Donations
+## Donations
 
 [Paypal](https://paypal.me/GDavis6899)
