@@ -13,7 +13,7 @@ Plugin for WindowsGSM to run a Night of the Dead Dedicated Server!!
 
 1. Download [latest](https://github.com/tadavispmd040507/WindowsGSM.NotD/releases/download/v1.0/WindowsGSM.NotD.zip) release.
 2. You have 2 options...
-    - Extract the file file downloaded and move the **ASKA.cs** folder to **WindowsGSM/plugins** then press the **Puzzle** icon in the bottom left corner and press the **[RELOAD PLUGINS]** or **Restart** WindowsGSM.
+    - Extract the file file downloaded and move the **NotD.cs** folder to **WindowsGSM/plugins** then press the **Puzzle** icon in the bottom left corner and press the **[RELOAD PLUGINS]** or **Restart** WindowsGSM.
     - Press the **Puzzle** icon in the bottom left corner then press the **[IMPORT PLUGIN]** and select the downloaded zip file.
 
 ## 📋 Official Documentation
